@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Domain and Subdomain
+# Domain and Subdomain task
 
 domain="$1"
 subdomain="$2"
